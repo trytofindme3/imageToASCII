@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+
+# NuGet packages (restored automatically from packages.config)
+packages/
+*.nupkg
+
+# OS junk
+Thumbs.db
+.DS_Store

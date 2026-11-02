@@ -1,0 +1,9 @@
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\bin\Debug\imageToASCII.exe.config
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\bin\Debug\imageToASCII.exe
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\bin\Debug\imageToASCII.pdb
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\bin\Debug\System.Drawing.Common.dll
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\obj\Debug\imageToASCII.csproj.AssemblyReference.cache
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\obj\Debug\imageToASCII.csproj.CoreCompileInputs.cache
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\obj\Debug\imageToA.1D13A8C1.Up2Date
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\obj\Debug\imageToASCII.exe
+C:\Users\olzha\Desktop\projectzkouska\imageToASCII\obj\Debug\imageToASCII.pdb
