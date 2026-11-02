@@ -1,0 +1,9 @@
+C:\Users\Asus TUF\Downloads\imageToASCII\bin\Release\net48\imageToASCII.exe.config
+C:\Users\Asus TUF\Downloads\imageToASCII\bin\Release\net48\imageToASCII.exe
+C:\Users\Asus TUF\Downloads\imageToASCII\bin\Release\net48\imageToASCII.pdb
+C:\Users\Asus TUF\Downloads\imageToASCII\obj\Release\net48\imageToASCII.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\Downloads\imageToASCII\obj\Release\net48\imageToASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\Downloads\imageToASCII\obj\Release\net48\imageToASCII.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\Downloads\imageToASCII\obj\Release\net48\imageToASCII.sourcelink.json
+C:\Users\Asus TUF\Downloads\imageToASCII\obj\Release\net48\imageToASCII.exe
+C:\Users\Asus TUF\Downloads\imageToASCII\obj\Release\net48\imageToASCII.pdb
